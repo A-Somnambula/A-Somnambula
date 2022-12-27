@@ -5,8 +5,6 @@
 
 Мое [резюме](https://github.com/A-Somnambula/A-Somnambula/blob/main/CV%20%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%20%D0%9B%D0%BE%D1%81%D0%B5%D0%B2%D0%B0.pdf) (всего на одну страницу!).
 
-
-
 ### Hard Skills
 
 ![](https://img.shields.io/badge/MS%20Excel%2C%20Google%20Sheets-pivot%2C%20vlookup%2C%20PowerQuery%2C%20PowerPivot%2C%20M%20language%2C%20DAX-blueviolet)
@@ -16,5 +14,6 @@
 ![](https://img.shields.io/badge/English-C1-blueviolet)
 
 
-
 Можете ознакомиться с моими проектами [здесь.](https://github.com/A-Somnambula/Data-Analytics)
+
+А все мои сертификаты лежат [здесь.](https://github.com/A-Somnambula/Data-Analytics/tree/main/Certificates)
